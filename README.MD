@@ -6,3 +6,4 @@ olá bem vindo:
 - Pave
 - bolo de cenoura
 - bolo de frutas
+- bolo de legumes
