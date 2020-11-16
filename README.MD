@@ -5,3 +5,4 @@ olá bem vindo:
 - strogonoff de frango
 - Pave
 - bolo de cenoura
+- bolo de frutas
